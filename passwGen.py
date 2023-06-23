@@ -1,3 +1,7 @@
+#                                           Made
+#                                            By 
+#                                       TROISE Adrien
+
 import string
 import random
 import tkinter as tk
